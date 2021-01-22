@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DecenterAds_1/static/css/main.5e21f968.chunk.css",
+    "main.js": "/DecenterAds_1/static/js/main.f10b292b.chunk.js",
+    "main.js.map": "/DecenterAds_1/static/js/main.f10b292b.chunk.js.map",
+    "runtime-main.js": "/DecenterAds_1/static/js/runtime-main.da6ff67d.js",
+    "runtime-main.js.map": "/DecenterAds_1/static/js/runtime-main.da6ff67d.js.map",
+    "static/js/2.6a809ad2.chunk.js": "/DecenterAds_1/static/js/2.6a809ad2.chunk.js",
+    "static/js/2.6a809ad2.chunk.js.map": "/DecenterAds_1/static/js/2.6a809ad2.chunk.js.map",
+    "index.html": "/DecenterAds_1/index.html",
+    "static/css/main.5e21f968.chunk.css.map": "/DecenterAds_1/static/css/main.5e21f968.chunk.css.map",
+    "static/js/2.6a809ad2.chunk.js.LICENSE.txt": "/DecenterAds_1/static/js/2.6a809ad2.chunk.js.LICENSE.txt",
+    "static/media/logo.31f1205f.jpg": "/DecenterAds_1/static/media/logo.31f1205f.jpg",
+    "static/media/phone.832c6f5e.jpg": "/DecenterAds_1/static/media/phone.832c6f5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da6ff67d.js",
+    "static/js/2.6a809ad2.chunk.js",
+    "static/css/main.5e21f968.chunk.css",
+    "static/js/main.f10b292b.chunk.js"
+  ]
+}
