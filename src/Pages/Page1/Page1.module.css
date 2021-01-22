@@ -1,0 +1,15 @@
+.main {
+  width: 56vw;
+}
+
+.subtitle {
+  width: 56%;
+  margin: 0 auto 24px;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.smallText {
+  font-size: 0.6em;
+  margin: 0 0 48px;
+}
