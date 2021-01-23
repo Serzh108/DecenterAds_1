@@ -13,7 +13,7 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-export default function Page1(params) {
+export default function Page1() {
   const classes = useStyles();
   return (
     <>

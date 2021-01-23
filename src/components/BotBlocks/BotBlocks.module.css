@@ -1,0 +1,76 @@
+.botBlocks {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 36vw;
+  font-size: 13px;
+  text-align: left;
+}
+
+.botBlocks div {
+  /* padding: 8px 0; */
+  margin: 8px 0;
+}
+
+.botBlocks p {
+  padding: 0;
+  margin: 0;
+}
+
+.botBlocks .title {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.hiMess {
+  padding: 4px 6px;
+  color: #add;
+  background-color: #28b2fd;
+  border-radius: 6px;
+}
+
+.hiMess p:first-of-type,
+.stAnswer p:first-of-type {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.stAnswer {
+  padding: 4px 6px;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+.buttonsBlock {
+  width: 100%;
+}
+
+.buttonsBlock p:first-of-type {
+  margin-bottom: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.buttonsBlock > div {
+  display: flex;
+  margin: 0;
+}
+
+.buttonsBlock > div > div {
+  width: 20%;
+  margin: 0 2% 0 0;
+  padding: 0.5em;
+  text-align: center;
+  font-size: 12px;
+  background-color: #fff;
+  border-radius: 6px;
+}
+
+.buttonsBlock > div > div:last-of-type {
+  margin-right: 0;
+}

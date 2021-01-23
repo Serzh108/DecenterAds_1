@@ -1,0 +1,17 @@
+.structure {
+  font-size: 12px;
+}
+
+.structure div {
+  margin-bottom: 16px;
+  padding: 4px 2px;
+  border-radius: 4px;
+}
+
+.structure div.active {
+  background-color: #fff;
+}
+
+.structure p {
+  margin: 0;
+}

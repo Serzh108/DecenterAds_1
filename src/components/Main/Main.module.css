@@ -1,0 +1,14 @@
+.main {
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex: 1;
+  padding-top: 16px;
+  border-bottom: 1px solid #d0d0d0;
+  background-color: #f3f3f3;
+}
+
+.main > div {
+  margin-left: 24px;
+}
